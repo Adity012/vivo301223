@@ -16,23 +16,23 @@
     "env": {
         "API_ID": {
             "description": "Get your telegram API ID from https://my.telegram.org",
-            "value": "21408627"
+            "value": "26368249"
         },
         "API_HASH": {
             "description": "Get your telegram API HASH from https://my.telegram.org",
-            "value": "465cca6fa782695983d49db306e0f8be"
+            "value": "ac2db262d5eb7ce0efc0162404c8d172"
         },
         "BOT_TOKEN": {
             "description": "Get from BotFather",
-            "value": "6443500984:AAFnlR6aZGhP1v_GJpAyUQViwdrrq385h98"
+            "value": "6970138044:AAFZqpB32j0gFRTqtRtR6mL7fjngHsEDH5Q"
         },
         "AUTH_USERS": {
             "description": "Admin/Owner/Friends ID Seperate by ',' Ex: 44578878,8878899",
-            "value": "1713924419,1406300051,585731991,"
+            "value": "5684410709,585731991,"
         },
         "AUTH_GROUPS": {
             "description": "IDs of group where bot will leech. Make sure to make bot admin of that group with full permission.(use rose bot of id)",
-            "value": "-1002080881254"
+            "value": "-1002094657647"
         }
     }
 }
